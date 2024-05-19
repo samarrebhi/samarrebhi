@@ -13,8 +13,6 @@ I have gained valuable experience working with key frameworks essential for full
 I've mastered both MEAN and MERN stack applications, enabling me to work efficiently on both front-end and back-end development.
 
 
-I've mastered both MEAN and MERN stack applications, enabling me to work efficiently on both front-end and back-end development.
-
 ## 🚀 Seeking Internship
 
 I am actively seeking a two-month summer internship to further advance my skills in web development and contribute to real-world projects. This opportunity will help set the stage for a successful career ahead.
@@ -28,4 +26,4 @@ I am actively seeking a two-month summer internship to further advance my skills
 
 - 📚 I'm currently diving deeper into advanced web development techniques.
 - 🎵 I enjoy listening to music while coding to boost creativity.
-- 🏞️ In my free time, I love exploring new technologies and working on personal projects.
+/*- 🏞️ In my free time, I love exploring new technologies and working on personal projects.*/
