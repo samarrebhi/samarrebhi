@@ -5,11 +5,11 @@ I am currently in my second year as an IT engineering student at ESPRIT, majorin
 ## 🛠️ Skills & Technologies
 
 I have gained valuable experience working with key frameworks essential for full-stack developers, including:
-- <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge&labelColor=black&logoWidth=20" alt="ReactJS">
-- <img src="https://img.shields.io/badge/-AngularJS-DD0031?logo=angular&logoColor=white&style=for-the-badge&labelColor=black&logoWidth=20" alt="AngularJS">
-- <img src="https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=black&logoWidth=20" alt="ExpressJS">
-- <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge&labelColor=black&logoWidth=20" alt="Angular">
-- <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=black&logoWidth=20" alt="MongoDB">
+- ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge&labelColor=black&logoWidth=20)
+- ![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?logo=angular&logoColor=white&style=for-the-badge&labelColor=black&logoWidth=20)
+- ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=black&logoWidth=20)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge&labelColor=black&logoWidth=20)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=black&logoWidth=20)
 
 I've mastered both MEAN and MERN stack applications, enabling me to work efficiently on both front-end and back-end development.
 
