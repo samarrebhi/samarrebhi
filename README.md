@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**samarrebhi/samarrebhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently in my second year as an IT engineering student at ESPRIT, majoring in web development. My focus is on creating and designing user-friendly and innovative websites and applications. 
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have gained valuable experience working with key frameworks essential for full-stack developers, including:
+- ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
+- ![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?logo=angular&logoColor=white)
+- ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+I've mastered both MEAN and MERN stack applications, enabling me to work efficiently on both front-end and back-end development.
+
+## 🚀 Seeking Internship
+
+I am actively seeking a two-month summer internship to further advance my skills in web development and contribute to real-world projects. This opportunity will help set the stage for a successful career ahead.
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- [Twitter](https://twitter.com/yourtwitter)
+- [Personal Website](https://yourwebsite.com)
+
+## ✨ Fun Facts
+
+- 📚 I'm currently diving deeper into advanced web development techniques.
+- 🎵 I enjoy listening to music while coding to boost creativity.
+- 🏞️ In my free time, I love exploring new technologies and working on personal projects.
