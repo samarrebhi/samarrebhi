@@ -19,11 +19,11 @@ I am actively seeking a two-month summer internship to further advance my skills
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/samar-rebhi/))
+- [LinkedIn]([[https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/samar-rebhi/)]())
 
 
 ## ✨ Fun Facts
 
 - 📚 I'm currently diving deeper into advanced web development techniques.
 - 🎵 I enjoy listening to music while coding to boost creativity.
-  - 🏞️ In my free time, I love exploring new technologies and working on personal projects.
+ 
