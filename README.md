@@ -19,7 +19,7 @@ I am actively seeking a two-month summer internship to further advance my skills
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([[https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/samar-rebhi/)]())
+- [LinkedIn]([(https://www.linkedin.com/in/samar-rebhi/)])
 
 
 ## ✨ Fun Facts
