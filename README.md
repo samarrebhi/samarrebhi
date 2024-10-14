@@ -1,6 +1,6 @@
 # Hi there! My name is Samar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-# 🌟 Samar Rebhi
+
 **IT Engineering Student | Full-Stack Web Developer**
 
   <a href="mailto:rebhisamar60@gmail.com">
@@ -56,8 +56,6 @@ I am a **third-year IT engineering student** majoring in **web development** at 
 - **French:** Fluent (B2)
 - **Arabic:** Native (C2)
 
----
+--
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGz2F98z0q3CZ2U/giphy.gif" alt="Animated" width="400" />
-</p>
+<
