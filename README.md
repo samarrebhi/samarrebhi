@@ -1,23 +1,10 @@
 # Hi there! My name is Samar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 # 🌟 Samar Rebhi
 **IT Engineering Student | Full-Stack Web Developer**
 
-<p align="center">
-  <a href="https://github.com/samarrebhi">
-    <img src="https://img.shields.io/badge/GitHub-samarrebhi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="mailto:rebhisamar60@gmail.com">
     <img src="https://img.shields.io/badge/Email-rebhisamar60@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/+21699130576">
-    <img src="https://img.shields.io/badge/WhatsApp-+21699130576-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tunisia_flag_3.svg/1920px-Tunisia_flag_3.svg.png" alt="Location" width="100" />
-  <span>Ariana, Tunisia</span>
-</p>
 
 ---
 
@@ -28,17 +15,39 @@ I am a **third-year IT engineering student** majoring in **web development** at 
 
 ## 💻 Skills
 
-| **Front-End Technologies** | **Back-End Technologies** | **DevOps Tools** | **Databases** | **Soft Skills** |
-|---------------------------|---------------------------|------------------|---------------|-----------------|
-| AngularJS                 | Java (Spring Boot)        | Docker           | MySQL         | Patience        |
-| ReactJS                   | PHP (Laravel)             | Jenkins          | MongoDB       | Attention to Detail |
-| Bootstrap                 | Python (Django, Flask)    | Vagrant          | H2            | Time Management  |
-| Tailwind CSS              | JavaScript (Node.js, ExpressJS) | Nexus         |               | Logical Thinking |
+### Front-End Technologies
+- ![Angular](https://img.shields.io/badge/-AngularJS-DD0031?style=flat&logo=angular&logoColor=white) AngularJS
+- ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white) ReactJS
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) Bootstrap
+- ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) Tailwind CSS
+
+### Back-End Technologies
+- ![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) Java (Spring Boot)
+- ![Laravel](https://img.shields.io/badge/-Laravel-EF3E00?style=flat&logo=laravel&logoColor=white) PHP (Laravel)
+- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) Python (Django, Flask)
+- ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) JavaScript (Node.js, ExpressJS)
+
+### DevOps Tools
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) Jenkins
+- ![Vagrant](https://img.shields.io/badge/-Vagrant-186128?style=flat&logo=vagrant&logoColor=white) Vagrant
+- ![Nexus](https://img.shields.io/badge/-Nexus-008C5E?style=flat&logo=nexus&logoColor=white) Nexus
+
+### Databases
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB
+- ![H2](https://img.shields.io/badge/-H2-003DA5?style=flat&logo=h2database&logoColor=white) H2
+
+### Soft Skills
+- 🧘 Patience
+- 🔍 Attention to Detail
+- ⏰ Time Management
+- 🧠 Logical Thinking
 
 ---
 
 ## 🎓 Certifications
-- **Angular for Front End Engineers** - June 2023 [![View Certificate](https://img.shields.io/badge/View%20Certificate-007ACC?style=for-the-badge&logo=Microsoft&logoColor=white)](your_certificate_link_here)
+- **Angular for Front-End Engineers** - June 2023 [![View Certificate](https://img.shields.io/badge/View%20Certificate-007ACC?style=for-the-badge&logo=Microsoft&logoColor=white)](your_certificate_link_here)
 
 ---
 
@@ -52,11 +61,3 @@ I am a **third-year IT engineering student** majoring in **web development** at 
 <p align="center">
   <img src="https://media.giphy.com/media/l4FGz2F98z0q3CZ2U/giphy.gif" alt="Animated" width="400" />
 </p>
-e]
-
----
-
-## Languages
-- **English:** Fluent (B2)
-- **French:** Fluent (B2)
-- **Arabic:** Native (C2)
