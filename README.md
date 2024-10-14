@@ -47,4 +47,4 @@ I am a **third-year IT engineering student** majoring in **web development** at 
 ---
 
 ## 🎓 Certifications
-- **Angular for Front-End Engineers** - June 2023 [![View Certificate](https://img.shields.io/badge/View%20Certificate-007ACC?style=for-the-badge&logo=Microsoft&logoColor=white)](your_certificate_link_h
+- **Angular for Front-End Engineers** - June 2023 [![View Certificate](https://img.shields.io/badge/View%20Certificate-007ACC?style=for-the-badge&logo=Microsoft&logoColor=white)]
