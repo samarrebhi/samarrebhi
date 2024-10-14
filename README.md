@@ -1,10 +1,10 @@
-# Hi there! My name is Samar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
+# Hi there! My name is Samar. <img id="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 **IT Engineering Student | Full-Stack Web Developer**
 
-  <a href="mailto:rebhisamar60@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rebhisamar60@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:rebhisamar60@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rebhisamar60@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 ---
 
@@ -56,6 +56,49 @@ I am a **third-year IT engineering student** majoring in **web development** at 
 - **French:** Fluent (B2)
 - **Arabic:** Native (C2)
 
---
+---
 
-<
+<style>
+  #wave {
+    animation: bounce 2s infinite;
+  }
+
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-10px);
+    }
+    60% {
+      transform: translateY(-5px);
+    }
+  }
+
+  h1, h2, h3, p {
+    opacity: 0;
+    animation: fadeIn 1s forwards;
+  }
+
+  h1 {
+    animation-delay: 0.5s;
+  }
+
+  h2 {
+    animation-delay: 1s;
+  }
+
+  h3 {
+    animation-delay: 1.5s;
+  }
+
+  p {
+    animation-delay: 2s;
+  }
+
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+</style>
