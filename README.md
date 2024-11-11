@@ -1,4 +1,4 @@
-# Hi there! My name is Samar !
+# Hi there! My name is Samar ! ![Waving Hand](https://media.giphy.com/media/yoJCzVh7NqP0s/giphy.gif)
 
 **Software Engineering Student | Full-Stack Web Developer**
 
