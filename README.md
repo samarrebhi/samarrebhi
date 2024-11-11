@@ -2,15 +2,6 @@
 
 **Software Engineering Student | Full-Stack Developer**
 
-[![Email](https://img.shields.io/badge/Email-rebhisamar60@gmail.com-4CAF50?style=flat&logo=Mail&logoColor=white)](mailto:rebhisamar60@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-%2B216--99130576-4CAF50?style=flat&logo=Phone&logoColor=white)](tel:+21699130576)  
-[![Location](https://img.shields.io/badge/Location-Ariana%2C%20Tunisia-4CAF50?style=flat&logo=Location&logoColor=white)](https://www.google.com/maps?q=Ariana%2C+Tunisia)
-
----
-
-## 📜 Profile
-I am a **final-year software engineering student** majoring in **web development** at **ESPRIT**. I have gained extensive experience in **full-stack development** and a solid understanding of the field’s fundamental frameworks and technologies. I am looking for a **six-month final year project internship** in **full-stack development**, with a particular interest in **CI/CD integration** and **microservices architecture**, setting the stage for a successful career.
-
 ---
 
 ## 💻 Skills
@@ -52,13 +43,6 @@ I am a **final-year software engineering student** majoring in **web development
 
 ---
 
-## 🎓 Education
-- **2022-2025**: ESPRIT - Private Higher School of Engineering and Technologies: National Computer Science Engineering Degree  
-- **2020-2022**: IPEIT - Preparatory Institute for Engineering Studies of Tunis: Passed the national engineering entrance exam  
-- **2016-2020**: LPK - Kasserine Pioneer High School: National Baccalaureate Degree in Mathematics, with honors  
-
----
-
 ## 💼 Experience
 
 ### Jul-Aug 2024: Full-stack Developer Intern at Xtensus, Tunisia
@@ -73,34 +57,6 @@ I am a **final-year software engineering student** majoring in **web development
 
 ---
 
-## 💻 Projects
-
-### Jan-May 2024: Full-stack JS Project - Opportunify [GitHub Link](https://github.com)
-- Built an intermediary platform for managing job offers between recruiters and job seekers, implementing a Jenkins CI/CD pipeline for automation and integrating OCR to extract job details.
-- **Technologies**: MERN Stack, ReactJS, ExpressJS, MongoDB, TailwindCSS, Jenkins CI/CD, GitHub
-
-### Jan-Mar 2024: DevOps Project - Jenkins Pipeline [GitHub Link](https://github.com)
-- Integrated a CI/CD pipeline on Jenkins for my full-stack project on GitHub, automating the cloning, compilation, code analysis, deployment, and launching of unit tests.
-- **Technologies**: Docker, Jenkins, CI/CD, SonarQube, Nexus, GitHub, JUnit, JaCoCo, Prometheus, Grafana
-
-### Dec 2023 - Jan 2024: Microservices Project - University Management [GitHub Link](https://github.com)
-- Developed a microservices app with a modular architecture using Spring Boot, integrating multiple databases and utilizing an API Gateway and Eureka Server.
-- **Technologies**: Microservices, Spring Boot, GitHub, H2, MySQL, MongoDB, API Gateway, Eureka Server
-
-### Oct-Dec 2023: Full-stack Spring Boot/Angular Project - University Residence Management [GitHub Link](https://github.com)
-- Created a web app for managing university residence blocks, featuring a user-friendly interface and integrating web services via Spring APIs.
-- **Technologies**: Spring Boot, Angular, Bootstrap, MySQL, Postman
-
-### Sep-Oct 2024: Laravel Project - GreenCycle [GitHub Link](https://github.com)
-- Developed a web app for waste management and recycling, enabling users to locate recycling centers, learn best practices for waste reduction, and organize community waste collection events.
-- **Technologies**: PHP, Laravel 9, Blade, GitHub
-
-### Sep-Oct 2024: Django Project - AgriPredict [GitHub Link](https://github.com)
-- Built an AI-powered agricultural app, providing yield forecasts, soil analyses, crop recommendations, and pesticide advice for optimized resource management.
-- **Technologies**: Python, Django
-
----
-
 ## 📜 Certifications
 - **Angular for Front-End Engineers** - June 2023 [![View Certificate](https://img.shields.io/badge/View%20Certificate-007ACC?style=for-the-badge&logo=Microsoft&logoColor=white)](https://www.certificate-link.com)
 
@@ -110,7 +66,3 @@ I am a **final-year software engineering student** majoring in **web development
 - **Arabic**: Native (C2)
 - **English**: Fluent (B2)
 - **French**: Fluent (B2)
-
----
-
-Feel free to contact me via email: [rebhisamar60@gmail.com](mailto:rebhisamar60@gmail.com)
