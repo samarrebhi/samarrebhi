@@ -43,24 +43,6 @@
 
 ---
 
-## 💼 Experience
-
-### Jul-Aug 2024: Full-stack Developer Intern at Xtensus, Tunisia
-- Developed a dynamic chart generation solution enabling users to create customized charts from multiple data sources via a single interface and API.
-- Collaborated with the team to improve the solution, enhancing user experience and enabling real-time chart visualizations.
-- **Technologies**: Angular, Highcharts, Spring Boot, MySQL, GitHub, Postman
-
-### Jun-Aug 2023: Full-stack Developer Intern at The Employability Pole, ESPRIT Group
-- Developed a platform to streamline the international study mobility selection process at ESPRIT, collaborating with the Employability Pole lead.
-- Automated the selection workflow, significantly reducing human intervention.
-- **Technologies**: Angular, ExpressJS, Bootstrap, MySQL, GitHub
-
----
-
-## 📜 Certifications
-- **Angular for Front-End Engineers** - June 2023 [![View Certificate](https://img.shields.io/badge/View%20Certificate-007ACC?style=for-the-badge&logo=Microsoft&logoColor=white)](https://www.certificate-link.com)
-
----
 
 ## 🌍 Languages
 - **Arabic**: Native (C2)
