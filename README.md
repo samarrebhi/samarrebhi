@@ -1,6 +1,6 @@
 # Hi there! My name is Samar. <img id="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-**IT Engineering Student | Full-Stack Web Developer**
+**Software Engineering Student | Full-Stack Web Developer**
 
 <a href="mailto:rebhisamar60@gmail.com">
   <img src="https://img.shields.io/badge/Email-rebhisamar60@gmail.com-4CAF50?style=flat&logo=Mail&logoColor=white" alt="Email" />
