@@ -3,8 +3,6 @@
 
 **Software Engineering Student | Full-Stack Web Developer**
 
-[![Email](https://img.shields.io/badge/Email-rebhisamar60@gmail.com-4CAF50?style=flat&logo=Mail&logoColor=white)](mailto:rebhisamar60@gmail.com)
-
 ---
 
 ## 📜 Profile
